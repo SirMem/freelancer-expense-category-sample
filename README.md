@@ -1,5 +1,7 @@
 # Freelancer Expense Category Starter — Free Sample
 
+**Trust hub (disclosure · ledger · refund):** https://sirmem.github.io/freelancer-money-sheets/
+
 A complete, usable **one-month expense log** with Schedule C–style categories. Structural seam of the paid **Freelancer Expense Tracker** — same quality Categories + Expense core, not a crippled demo.
 
 ## What's inside
