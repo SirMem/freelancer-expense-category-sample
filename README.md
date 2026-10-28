@@ -24,9 +24,8 @@ It does **not** include Mileage, Settings (tax year / mileage rate), a full-year
 
 ## Download
 
-Raw `.xlsx`:
-
-https://raw.githubusercontent.com/SirMem/freelancer-expense-category-sample/main/Freelancer-Expense-Category-Sample.xlsx
+- **Gumroad $0+ (email receipt):** https://keithjenn.gumroad.com/l/freelancer-expense-category-sample
+- Raw `.xlsx`: https://raw.githubusercontent.com/SirMem/freelancer-expense-category-sample/main/Freelancer-Expense-Category-Sample.xlsx
 
 ## Primary CTA — this sample feeds Expense only
 
