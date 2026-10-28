@@ -28,6 +28,22 @@ Raw `.xlsx`:
 
 https://raw.githubusercontent.com/SirMem/freelancer-expense-category-sample/main/Freelancer-Expense-Category-Sample.xlsx
 
+## Primary CTA — this sample feeds Expense only
+
+Tax season / Schedule C categories + mileage mess → **[Expense Tracker $5](https://keithjenn.gumroad.com/l/freelancer-expense-tracker)**
+
+Stay free if the one-month Category subset is enough. This sample does **not** hard-upsell Invoice, Client, or Bundle.
+
+## Which tracker? (situation map)
+
+- Late pay / messy aging receivables → Invoice Tracker $6 (not Expense or Client)
+- Tax season / Schedule C categories + mileage mess → Expense Tracker $5
+- Pipeline of leads/clients (status + hours), not cash chase → Client Tracker $5
+- Already decided you need all three money ops → Bundle $12 (one checkout)
+- Free Aging sample feeds Invoice only — stay free if the subset is enough
+- Free Expense Category / Client Pipeline samples feed Expense / Client only
+- ADHD 2027 planner & RE listing prompts are different ICPs — free-only here (not money-tracker upsells)
+
 ## Gap questions (optional — only if one fits)
 
 If one fits after you try the sample, open a GitHub issue with **one word**:
